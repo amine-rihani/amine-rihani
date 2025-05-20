@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rihani</h1>
-<h3 align="center">A passionate software developer from Tunisia</h3>
+<h3 align="center">A Tunisian Software Developer</h3>
 
 <p align="center">
   I’m a software developer eager to learn, build, and contribute to impactful projects.  
