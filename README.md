@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rihani</h1>
-<h3 align="center">A passionate full stack developer from Tunisia</h3>
+<h3 align="center">A passionate software developer from Tunisia</h3>
 
 <p align="center">
-  I’m a full stack developer eager to learn, build, and contribute to impactful projects.  
+  I’m a software developer eager to learn, build, and contribute to impactful projects.  
   Passionate about clean code, modern technologies, and solving real-world problems through software.  
   I love exploring new tools and continuously improving my skills.
 </p>
